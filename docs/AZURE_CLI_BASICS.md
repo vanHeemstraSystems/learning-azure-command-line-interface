@@ -53,7 +53,13 @@ Start-Process msiexec.exe -Wait -ArgumentList '/I AzureCLI.msi /quiet'
 
 ### macOS
 
-**Using Homebrew (Recommended)**
+**Using PIP (Recommended)**
+
+```bash
+pip install azure-cli 
+```
+
+**Using Homebrew**
 
 ```bash
 brew update && brew install azure-cli
@@ -100,6 +106,10 @@ core                              2.50.0
 telemetry                          1.0.8
 ...
 ```
+
+## Create a virtual environment for Python
+
++++ INSTRUCTIONS FOR CREATING A VIRTUAL ENVIRONMENT FOR PYTHON GO HERE +++
 
 ## Authentication
 
