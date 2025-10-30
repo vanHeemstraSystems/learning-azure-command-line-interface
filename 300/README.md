@@ -175,7 +175,7 @@ Select an option:
 ### Authentication & Configuration
 
 ```bash
-az login                                    # Interactive login
+az login                                   # Interactive login
 az account list --output table             # List subscriptions
 az account set --subscription "SUB_ID"     # Set active subscription
 ```
