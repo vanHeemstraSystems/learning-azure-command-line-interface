@@ -217,7 +217,7 @@ az resource list --tag Environment=Production
 
 ```
 Learning-Azure-Command-Line-Interface/
-├── README.md                          # This file
+├── 300/README.md                      # This file
 ├── azure_resource_manager.py          # Main application
 ├── examples/
 │   ├── basic_operations.sh           # Shell script examples
