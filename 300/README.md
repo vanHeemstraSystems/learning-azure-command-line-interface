@@ -63,6 +63,13 @@ winget install Microsoft.AzureCLI
 
 **macOS:**
 
+RECOMMENDED:
+``` bash
+pip install azure-cli
+```
+
+Alternatively
+
 ```bash
 brew install azure-cli
 ```
