@@ -83,8 +83,8 @@ curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 ### 2. Clone This Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Learning-Azure-Command-Line-Interface.git
-cd Learning-Azure-Command-Line-Interface
+git clone https://github.com/YOUR-USERNAME/learning-azure-command-line-interface.git
+cd learning-azure-command-line-interface
 ```
 
 ### 3. Verify Azure CLI Installation
