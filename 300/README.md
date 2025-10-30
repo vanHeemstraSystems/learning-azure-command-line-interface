@@ -115,6 +115,10 @@ az account set --subscription "SUBSCRIPTION_NAME_OR_ID"
 
 ## Usage
 
+### Create a virtual environment for Python
+
++++ INSTRUCTIONS GO HERE +++
+
 ### Running the Application
 
 **Interactive Mode (Recommended for Learning):**
