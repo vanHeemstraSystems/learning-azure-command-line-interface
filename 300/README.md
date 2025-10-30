@@ -217,8 +217,8 @@ az resource list --tag Environment=Production
 
 ```
 Learning-Azure-Command-Line-Interface/
-├── 300/README.md                      # This file
-├── azure_resource_manager.py          # Main application
+├── 300/README.md                     # This file
+├── azure_resource_manager.py         # Main application
 ├── examples/
 │   ├── basic_operations.sh           # Shell script examples
 │   ├── storage_demo.sh               # Storage-specific examples
@@ -227,7 +227,7 @@ Learning-Azure-Command-Line-Interface/
 │   ├── AZURE_CLI_BASICS.md           # Azure CLI fundamentals
 │   ├── BEST_PRACTICES.md             # Best practices guide
 │   └── TROUBLESHOOTING.md            # Common issues and solutions
-└── .gitignore                         # Git ignore file
+└── .gitignore                        # Git ignore file
 ```
 
 ## Learning Path
